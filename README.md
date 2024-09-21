@@ -16,7 +16,7 @@ This project is a simple web-based dictionary application that allows users to s
 - JavaScript
 
 ## Project Structure
-/dictionary-project ├── index.html ├── style.css └── script.js
+dictionary-project ├── index.html ├── style.css └── script.js
 
 ## Installation
 1. Clone the repository:
