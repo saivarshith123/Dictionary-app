@@ -1,7 +1,7 @@
 # Dictionary Project
 
 ## Description
-This project is a simple web-based dictionary application that allows users to search for the meaning of words. It fetches data from the [Dictionary API](https://api.dictionaryapi.dev/) and displays the word's definition, part of speech, phonetics, and an example sentence.
+This project is a simple web-based dictionary application that allows users to search for the meaning of words. It fetches data from the [Dictionary API](https://dictionaryapi.dev) and displays the word's definition, part of speech, phonetics, and an example sentence.
 
 ## Features
 - Search for any English word.
